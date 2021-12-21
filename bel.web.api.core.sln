@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bel.web.api.core", "bel.web.api.core\bel.web.api.core.csproj", "{D6D34372-4056-4863-A477-89F57775BABE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bel.web.api.core.objects", "bel.web.api.core.objects\bel.web.api.core.objects.csproj", "{0EFD5E88-57C4-4018-9029-45AE7849EDF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6D34372-4056-4863-A477-89F57775BABE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6D34372-4056-4863-A477-89F57775BABE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6D34372-4056-4863-A477-89F57775BABE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6D34372-4056-4863-A477-89F57775BABE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EFD5E88-57C4-4018-9029-45AE7849EDF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EFD5E88-57C4-4018-9029-45AE7849EDF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EFD5E88-57C4-4018-9029-45AE7849EDF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EFD5E88-57C4-4018-9029-45AE7849EDF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6720FA0-F602-4DFF-9CC2-623631A417D9}
+	EndGlobalSection
+EndGlobal
